@@ -1,5 +1,5 @@
-# NAME: KARTHIKEYAN S
-# REG NO: 212224230116
+# NAME: Varun A
+# REG NO: 24900420
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
@@ -96,8 +96,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include"ThingSpeak.h"
 #include <WiFi.h>
 
-char ssid[]="KARTHI13";
-char pass[]="Cam1234";
+char ssid[]="redmi";
+char pass[]="varun ";
 
 const int LDR_PIN=34;
 //#define LDR_PIN 34
